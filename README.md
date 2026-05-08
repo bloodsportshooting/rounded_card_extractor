@@ -381,7 +381,3 @@ Potential issues include:
 * Pillow
 
 ---
-
-# License
-
-MIT License
